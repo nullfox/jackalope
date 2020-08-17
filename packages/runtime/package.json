@@ -32,5 +32,8 @@
     "@types/lodash": "^4.14.159",
     "aws-sdk": "^2.733.0"
   },
-  "gitHead": "709078db85ec0ab5f1fdfd5375b930d2c610e743"
+  "gitHead": "709078db85ec0ab5f1fdfd5375b930d2c610e743",
+  "publishConfig": {
+    "access": "public"
+  }
 }
