@@ -1,6 +1,6 @@
 {
   "name": "@jackalope/config-ssm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Jackalope AWS SSM config",
   "author": "Ben Fox <ben.fox@sibly.co>",
   "homepage": "",
