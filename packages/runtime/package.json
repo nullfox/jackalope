@@ -31,5 +31,6 @@
     "@types/hapi__joi": "^17.1.4",
     "@types/lodash": "^4.14.159",
     "aws-sdk": "^2.733.0"
-  }
+  },
+  "gitHead": "35c78e2bd1cd6bcc6449c4bd3f1d0bcb3fe2fa52"
 }
