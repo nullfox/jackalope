@@ -1,6 +1,6 @@
 {
   "name": "@jackalope/test",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Serverless test",
   "author": "Ben Fox <ben.fox@sibly.co>",
   "homepage": "",
@@ -19,9 +19,9 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@jackalope/config-ssm": "^0.0.1",
-    "@jackalope/runtime": "^0.0.1",
-    "@jackalope/serverless": "^0.0.1",
+    "@jackalope/config-ssm": "^1.0.0",
+    "@jackalope/runtime": "^1.0.0",
+    "@jackalope/serverless": "^1.0.0",
     "convict": "^6.0.0",
     "lodash": "^4.17.19"
   },
