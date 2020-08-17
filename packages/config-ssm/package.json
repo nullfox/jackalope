@@ -1,6 +1,6 @@
 {
   "name": "@jackalope/config-ssm",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "Jackalope AWS SSM config",
   "author": "Ben Fox <ben.fox@sibly.co>",
   "homepage": "",
@@ -27,5 +27,5 @@
     "@types/lodash": "^4.14.159",
     "aws-sdk": "^2.733.0"
   },
-  "gitHead": "35c78e2bd1cd6bcc6449c4bd3f1d0bcb3fe2fa52"
+  "gitHead": "709078db85ec0ab5f1fdfd5375b930d2c610e743"
 }
