@@ -32,7 +32,7 @@
     "@types/lodash": "^4.14.159",
     "aws-sdk": "^2.733.0"
   },
-  "gitHead": "709078db85ec0ab5f1fdfd5375b930d2c610e743",
+  "gitHead": "7920e46736d4c6d1cc5d262045fa2f71e516a024",
   "publishConfig": {
     "access": "public"
   }
